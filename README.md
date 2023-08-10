@@ -1,8 +1,6 @@
   ### Hi there 👋
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-**tauseef-creator/tauseef-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 -🔭 I’m currently working on a web app that uses MongoDB, Express, React, and Node.js (MERN stack) to create a dynamic and interactive user interface.
@@ -13,3 +11,5 @@ Here are some ideas to get you started:
 -📫 How to reach me: You can contact me through my GitHub profile or send me an email at tauseef.creator@gmail.com.
 -😄 Pronouns: He/Him
 -⚡ Fun fact: Did you know that the world’s first programmer was a woman? Her name was Ada Lovelace, and she worked on the analytical engine in the early 18th century. She developed the first computer program a century before the first computer was created2.
+
+
