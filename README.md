@@ -46,8 +46,11 @@
 
 ###
 
+![](https://komarev.com/ghpvc/?username=tauseef-creator)
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/tauseef-creator/tauseef-creator/output/snake.svg" alt="Snake animation" />
 
 ###
+
