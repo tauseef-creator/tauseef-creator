@@ -1,6 +1,7 @@
 <h6 align="left">
 ### Hi there 👋<br><br>- 🔭 I’m currently working on company project<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on source code 😉<br>- 📫 How to reach me: tauseefrazaq71@gmail.com, +923475195620<br>- 😄 Pronouns: he/him/er</h6>
 
+![](https://komarev.com/ghpvc/?username=tauseef-creator&style=for-the-badge)
 ###
 
 <div align="center">
@@ -45,8 +46,6 @@
 </div>
 
 ###
-
-![](https://komarev.com/ghpvc/?username=tauseef-creator)
 
 <br clear="both">
 
