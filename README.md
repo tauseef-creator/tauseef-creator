@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/tauseef-razaq-59b284253/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="instagram.com/tauseef_razaq/" target="_blank">
+  <a href="http://www.instagram.com/tauseef_razaq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/scorpion.mediocre" target="_blank">
@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tauseef-creator/tauseef-creator/output/snake.svg" alt="Snake animation" />
+#<img src="https://raw.githubusercontent.com/tauseef-creator/tauseef-creator/output/snake.svg" alt="Snake animation" />
 
 ###
 
