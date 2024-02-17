@@ -1,5 +1,5 @@
 <h6 align="left">
-### Hi there 👋<br><br>- 🔭 I’m currently working on university stuff (Why is that?, are you ok man?)<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on source code! OK 😉<br>- 📫 How to reach me: tauseefrazaq71@gmail.com, +923475195620<br>- 😄 Pronouns: he/him/er
+### Hi there 👋<br><br>- 🔭 I’m currently working on university stuff (Why is that?, are you ok man?)<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on source code! OK 😉<br>- 📫 How to reach me: tauseefrazaq71@gmail the things that are .com, +923475195620<br>- 😄 Pronouns: he/him/er
 Goti</h6>
 
 ![](https://komarev.com/ghpvc/?username=tauseef-creator&style=for-the-badge)
