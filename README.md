@@ -7,7 +7,7 @@
 Hi! I'm Tauseef Razaq, a passionate software engineer with a focus on Software design and Operations. I enjoy working on innovative projects and learning new technologies to solve real-world problems.
 
 - 🌱 I’m currently learning devOps.
-- 💼 Open to new opportunities in [Field/Industry].
+- 💼 Open to new opportunities in Software Business.
 - 🎓 Studying Software Engineering at FAST - National University.
 - 📫 Reach me at: tauseefrazaq71@gmail.com
 
@@ -18,25 +18,14 @@ Hi! I'm Tauseef Razaq, a passionate software engineer with a focus on Software d
 - **Tools & Platforms:** Git/Github, Docker, K8s, Linux, Figma
 - **Databases:** MySQL, PostgreSQL, MongoDB.
 
-; ## 📚 Projects
-
-; ### [Project 1 Name](link-to-project)
-; - **Description:** A brief description of what the project does.
-; - **Technologies Used:** [List of Technologies]
-
-
 ## 📬 Contact
 
 - **Email:** tauseefrazaq71@gmail.com
 - **LinkedIn:** Tauseef Razaq(link-to-linkedin)
 - **Twitter:** [Your Twitter Handle](link-to-twitter)
 
-; ## 📈 GitHub Stats
-
-; ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ---
 
 *Thank you for visiting my GitHub profile! Feel free to check out my projects and get in touch.*
 
-![Profile Footer](https://via.placeholder.com/1000x50.png?text=Happy+Coding!)
+![Profile Footer]([https://via.placeholder.com/1000x50.png?text=Happy+Coding!](https://res.cloudinary.com/practicaldev/image/fetch/s--SgtWAuEf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l3r5prll4cepvk5etgbd.gif))
