@@ -1,4 +1,4 @@
-# Tauseef Razaq - Software Engineer
+![Header](./header-image.png)
 
 ## 👋 About Me
 
