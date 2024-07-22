@@ -19,7 +19,7 @@ Hi! I'm Tauseef Razaq, a passionate software engineer with a focus on Software d
 ## 📬 Contact
 
 - **Email:** tauseefrazaq71@gmail.com
-- **LinkedIn:** Tauseef Razaq
+- **LinkedIn:** ![Tauseef Razaq](https://www.linkedin.com/in/tauseef-razaq-59b284253)
 
 ---
 
