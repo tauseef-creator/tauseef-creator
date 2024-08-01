@@ -4,10 +4,10 @@
 
 Hi! I'm Tauseef Razaq, a passionate software engineer with a focus on Software design and Operations. I enjoy working on innovative projects and learning new technologies to solve real-world problems.
 
-- 🌱 I’m currently learning devOps.
-- 💼 Open to new opportunities in Software Business.
-- 🎓 Studying Software Engineering at FAST - National University.
-- 📫 Reach me at: tauseefrazaq71@gmail.com
+- I’m currently learning devOps.
+- Open to new opportunities in Software Business.
+- Studying Software Engineering at FAST - National University.
+- Reach me at: tauseefrazaq71@gmail.com
 
 ## 🛠️ Skills
 
