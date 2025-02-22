@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi! I'm Tauseef Razaq, a passionate software engineer with a focus on Software design and Operations. I enjoy working on innovative projects and learning new technologies to solve real-world problems.
+Hi! I'm [Tauseef Razaq](https://tauseefrazaq.com), a passionate software engineer with a focus on Software design and Operations. I enjoy working on innovative projects and learning new technologies to solve real-world problems.
 
 - I’m currently learning devOps.
 - Open to new opportunities in Software Business.
