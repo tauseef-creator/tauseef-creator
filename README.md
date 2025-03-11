@@ -20,7 +20,7 @@ Hi! I'm [Tauseef Razaq](https://tauseefrazaq.com), a passionate software enginee
 
 - **Email:** tauseefrazaq71@gmail.com
 - **LinkedIn:** [Tauseef Razaq](https://www.linkedin.com/in/tauseef-razaq-59b284253)
-
+- **portfolio:** [tauseef](https://tauseefrazaq.com)
 ---
 
 *Thank you for visiting my GitHub profile! Feel free to check out my projects and get in touch.*
