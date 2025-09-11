@@ -1,6 +1,6 @@
 ![Header](./header-image.png)
 
-## 👋 About Me
+## About Me
 
 Hi! I'm [Tauseef Razaq](https://tauseefrazaq.com), a passionate software engineer with a focus on Software design and Operations. I enjoy working on innovative projects and learning new technologies to solve real-world problems.
 
@@ -9,14 +9,14 @@ Hi! I'm [Tauseef Razaq](https://tauseefrazaq.com), a passionate software enginee
 - Studying Software Engineering at FAST - National University.
 - Reach me at: tauseefrazaq71@gmail.com
 
-## 🛠️ Skills
+## Skills
 
 - **Languages:** C/C++, Java, Python, Javascipt/Typescript. 
 - **Frameworks & Libraries:** MERN
 - **Tools & Platforms:** Git/Github, Docker, K8s, Linux, Figma
 - **Databases:** MySQL, PostgreSQL, MongoDB.
 
-## 📬 Contact
+## Contact
 
 - **Email:** tauseefrazaq71@gmail.com
 - **LinkedIn:** [Tauseef Razaq](https://www.linkedin.com/in/tauseef-razaq-59b284253)
